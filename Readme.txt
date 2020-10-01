@@ -1,11 +1,11 @@
-Ici on a le répertoire "app sparql" qui contient le code source de l'application qui permet de faire l'exécution direct des requêtes sparql.
-Le répertoire "guide web" contient le code source de la page du guide de notre chatbot.
-le répertoire "dataset wit" contien le dataset qu'on a créé pour apprendre à notre chatbot du langage naturel.
-le répertoire "chatbot" contient le code source de notre chatbot avec tout les modules node js utilisés.
-Le fichier "GeOntology" est celui de l'ontologie utilisé durant notre projet.
+Ici on a le rÃ©pertoire "app sparql" qui contient le code source de l'application qui permet de faire l'exÃ©cution direct des requÃªtes sparql.
+Le rÃ©pertoire "guide web" contient le code source de la page du guide de notre chatbot.
+le rÃ©pertoire "dataset wit" contien le dataset qu'on a crÃ©Ã© pour apprendre Ã  notre chatbot du langage naturel.
+le rÃ©pertoire "chatbot" contient le code source de notre chatbot avec tout les modules node js utilisÃ©s.
+Le fichier "GeOntology" est celui de l'ontologie utilisÃ© durant notre projet.
 
 *********************************************************************************************************************
-Réalisé par :
-Ghanem Abdelghani
+RÃ©alisÃ© par :
 Ouifak Hafsaa
+Ghanem Abdelghani
 Ait Abderrahman Latifa
